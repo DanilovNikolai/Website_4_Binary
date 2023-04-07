@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
 
 .about__text { color: #868585; font-size: 14px; font-weight: 300; line-height: 26px; }
 
-.portfolio { background-color: #f3f3f3; padding: 105px 0 60px 0; }
+.portfolio { background: url(../../img/partners/bg.jpg) center/cover no-repeat; padding: 105px 0 60px 0; }
 
 .portfolio__header-block { margin: 0 0 50px 0; }
 
